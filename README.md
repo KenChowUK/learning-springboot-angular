@@ -1,2 +1,2 @@
 # learning-springboot-angular
- Learning for SpringBoot & Angular (Beginner)
+ Learning for SpringBoot & Angular (Typescript)
